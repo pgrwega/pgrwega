@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgrwega
 - 👀 I’m interested in Computer Technology
-- 🌱 I’m currently learning Software Dev. Laravel
+- 🌱 I’m currently wprking Software Dev. Laravel
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me ..
 
