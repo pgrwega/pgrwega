@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pgrwega
 - 👀 I’m interested in Computer Technology
-- 🌱 I’m currently working on Software Dev. Laravel
-- 💞️ I’m looking to collaborate on IT projects
+- 🌱 I’m currently working on Software Dev. React, Laravel, WebDev Mobile Dev.
+- 💞️ I’m looking to collaborate on IT projects.
 - 📫 How to reach me ..
 
 <!---
